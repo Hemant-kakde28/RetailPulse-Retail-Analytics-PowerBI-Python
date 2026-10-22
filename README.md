@@ -7,7 +7,7 @@
 
 > **Zidio Internship Project**  
 > **Developed By:** Hemant Kakde  
-> **Tech Stack:** Python (Pandas, NumPy, Matplotlib) & Power BI (DAX, Star Schema Modeling)
+> **Tech Stack:** Python (Pandas, NumPy ) & Power BI (DAX, Star Schema Modeling)
 
 ---
 
